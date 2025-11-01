@@ -1,0 +1,5 @@
+{
+  "name": "Harmonium Simulator",
+  "description": "A web-based harmonium simulator with keyboard play, recording, and playback functionalities. Play notes using your mouse or computer keyboard, record your melodies, and play them back. Built with React, TypeScript, and the Web Audio API for a realistic sound experience.",
+  "requestFramePermissions": []
+}
